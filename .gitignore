@@ -1,0 +1,11 @@
+# Exclude environment variables file
+.env
+
+# Exclude Node.js modules
+node_modules/
+
+# Exclude build output
+build/
+
+# Exclude log files
+*.log
